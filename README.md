@@ -2,7 +2,7 @@
 ---
 https://github.com/macacajs/app-inspector
 
-```
+```sh
 npm i app-inspector -g
 app-inspector -u xxx-xxx-xxx-xxx-xxxx
 DEVELOPMENT_TEAM_ID=TEAM_ID npm i app-inspector -g
@@ -16,7 +16,7 @@ adb devices
 DEVELOPMENT_TEAM_ID=TEAM_ID npm i app-inspector -g
 ```
 
-```
+```js
 ```
 
 ```
